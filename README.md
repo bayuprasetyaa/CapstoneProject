@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium est a ult
 Menurut WIkipedia 
 
 ### Analisa
-![Plot](https://public.tableau.com/views/WorldCupVisualizationTotalGoals/TotalGoalsWorldsCup?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Plot](https://public.tableau.com/views/WorldCupVisualizationTotalGoals/TotalGoalsWorldsCup?:language=en-US&:display_count=n&:origin=viz_share_link)
