@@ -3,4 +3,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet orci a l
 
 ---
 ## Background
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pretium est a ultrices blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus venenatis est eu metus suscipit sollicitudin. Integer in purus a urna hendrerit dapibus nec sed ex. Proin elementum ornare augue, eu fringilla quam maximus ac. Donec egestas mauris justo. Sed sagittis vel nunc sit amet consequat. Proin efficitur maximus lorem. Integer finibus gravida sem, eget vestibulum turpis vehicula a. Nullam a ex molestie odio interdum ullamcorper. Sed et volutpat purus. Sed consectetur suscipit lacus, at iaculis dolor gravida vel. Phasellus consequat tincidunt pulvinar. In nec venenatis sem.
 ![Terminal Security Agency](https://upload.wikimedia.org/wikipedia/commons/e/e4/Transportation_Security_Administration_seal.svg)
+Menurut WIkipedia 
+
+### Analisa
+![Plot](https://public.tableau.com/views/WorldCupVisualizationTotalGoals/TotalGoalsWorldsCup?:language=en-US&:display_count=n&:origin=viz_share_link)
