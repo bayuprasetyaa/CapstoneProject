@@ -3,4 +3,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet orci a l
 
 ---
 ## Background
-[Terminal Security Agency (TSA)](https://raw.githubusercontent.com/bayuprasetyaa/CapstoneProject/main/images/gettyimages-4643752501.webp)
+![Terminal Security Agency](https://raw.githubusercontent.com/bayuprasetyaa/CapstoneProject/main/images/gettyimages-4643752501.webp)
